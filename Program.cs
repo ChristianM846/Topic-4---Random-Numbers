@@ -5,6 +5,24 @@
         static void Main(string[] args)
         {
             Random generator = new Random();
+            int number = generator.Next();
+            Console.WriteLine(number);
+            number = generator.Next();
+            Console.WriteLine(number);
+            number = generator.Next();
+            Console.WriteLine(number);
+            number = generator.Next();
+            Console.WriteLine(number);
+            number = generator.Next();
+            Console.WriteLine(number);
+            number = generator.Next();
+            Console.WriteLine(number);
+            number = generator.Next();
+            Console.WriteLine(number);
+            number = generator.Next();
+            Console.WriteLine(number);
+            number = generator.Next();
+            Console.WriteLine(number);
 
         }
     }
